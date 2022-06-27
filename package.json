@@ -1,0 +1,26 @@
+{
+  "name": "web_scraper_amazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Safar123/web_scraper_amazon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Safar123/web_scraper_amazon/issues"
+  },
+  "homepage": "https://github.com/Safar123/web_scraper_amazon#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.1",
+    "twilio": "^3.77.3"
+  }
+}
